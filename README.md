@@ -1,5 +1,5 @@
 # DA6401_Assignment2
-
+Wandb Report: https://api.wandb.ai/links/shivam-da24m018-iitmaana/09jrhk2z
 # PartA :CNN Image Classification with PyTorch Lightning
 
 ## Features
