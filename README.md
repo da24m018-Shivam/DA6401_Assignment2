@@ -132,7 +132,7 @@ python part2.py --data_path /path/to/dataset --batch_size 32 --epochs 10 --freez
 | `--weight_decay` | Weight decay for regularization | 1e-4 |
 | `--use_scheduler` | Use learning rate scheduler | False |
 | `--freeze_strategy` | Strategy for freezing layers (No, all, allconv, allfc, first, last) | No |
-| `--freeze_layers` | Number of layers to freeze (for first/last strategies) | 0 |
+| `--freeze_layers` | Number of layers to freeze (for first/last strategies) | 1 |
 | `--project_name` | W&B project name | Fine_Tune_Naturalist |
 | `--run_name` | W&B run name | InceptionV3_Fine_Tune |
 | `--output_dir` | Directory to save outputs | output |
